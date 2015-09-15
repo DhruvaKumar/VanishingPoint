@@ -1,5 +1,5 @@
 # VanishingPoint
-Vanishing point algorithm for Penn Autonomous Racing Club (http://mlab.seas.upenn.edu/pennarc/)
+Vanishing point algorithm for Penn Autonomous Racing Club
 
 Has two directories: </br>
 - ROS
